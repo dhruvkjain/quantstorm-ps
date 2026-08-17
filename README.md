@@ -119,6 +119,12 @@ Use the leaderboard as a benchmark to experiment, improve, and see how your stra
 
 ## Submission Guideline
 
-A google form link will be shared in this README at 11:00PM, where you can submit your bot python file by 11:59PM, 17th August. Please follow all the guidelines mentioned in the rulebook for the submission.
+A google form link will be shared in this README at 11:00PM, where you can submit your bot python file by 12:00PM, 18th August. Please follow all the guidelines mentioned in the rulebook for the submission.
 **Note that you can only upload your final strategy once in the google form, so choose your final strategy wisely.**
+
+UPDATE: Submission Link: FINAL SUBMISSION LINK
+You will only be able to submit your bot once. Please be sure before submitting it.
+
+https://docs.google.com/forms/d/e/1FAIpQLSchLJG_MH8QjPZWkz8FeMTRBdPBvPa6shaVjpFlO1e2rRD8aQ/viewform?usp=dialog
+
 
