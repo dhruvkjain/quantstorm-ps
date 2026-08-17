@@ -18,7 +18,7 @@
   <img src="assets/QRT.jpeg" height="40">
 </p>
 
-**Last Updated at: 8:22 AM, if your version is older please re-fetch the repository**
+**Last Updated at: 8:55 PM, if your version is older please re-fetch the repository**
 
 
 **Read** [**`RULEBOOK.md`**](RULEBOOK.md) **first. It is the complete specification.**

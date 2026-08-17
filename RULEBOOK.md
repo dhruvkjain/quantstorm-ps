@@ -520,7 +520,7 @@ is built for every call.
 | `te_mine` | `int` | Your remaining TE |
 | `te_theirs` | `int` | Opponent's remaining TE |
 | `spread_cap` | `int` | Maximum opening spread this round |
-| `final_cap` | `int` | Minimum opening spread this round, and the width below which a counter is never *forced* to shrink. Countering tighter than this is legal. |
+| `final_cap` | `int` | Minimum opening spread this round, and the width below which a counter is never *forced* to shrink. |
 | `is_maker` | `bool` | Are you the Maker this round |
 | `powers_mine` | `frozenset[str]` | Powers active for you this round |
 | `powers_theirs` | `frozenset[str]` | Powers active for your opponent this round |
